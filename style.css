@@ -7,7 +7,7 @@ h1{
 }
 
 
-p{color:darkslateblue;
+p{color:black;
 text-align: left;
 font-size: 30px;
 text-align: justify;
@@ -25,6 +25,6 @@ text-align: justify;
      height: 300px;
       margin:10px; 
       padding:3px; 
-      border:0.5rem solid#365902
-      border-radius:24px;
+      border:0.5rem solid#365902;
+      border-radius:  24px;
     }
