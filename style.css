@@ -1,4 +1,5 @@
-body{background-color:cadetblue;}
+body{
+    background-image:linear-gradiet (#BF9663   #DCF2BB    #A1C206    );}
 h1{
     color: darkslateblue;
     font-size: 50px;
@@ -18,12 +19,12 @@ text-align: justify;
        padding: 2px; /*define uma distância interna entre um elemento e sua borda*/ 
        border: 0.2rem solid darkviolet;
       border-radius:20px 
-    } 
-.fotos {
+    }
+    .fotos {
      width: 300px;
      height: 300px;
       margin:10px; 
       padding:3px; 
-      border:0.5rem solid #365902
-     border: radius 24px;
+      border:0.5rem solid#365902
+      border-radius:24px;
     }
