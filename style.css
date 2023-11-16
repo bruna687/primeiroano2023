@@ -1,5 +1,5 @@
 body{
-    background-image:linear-gradiet (#BF9663,#8C694A,#A1C206    );}
+    background-image:linear-gradient(#BF9663,#8C694A,#A1C206);}
 h1{
     color: darkslateblue;
     font-size: 50px;
@@ -20,7 +20,7 @@ text-align: justify;
        border: 0.2rem solid darkviolet;
       border-radius:20px ;
     }
-    
+
  .fotos {
     width: 300px;
     height: 300px;
