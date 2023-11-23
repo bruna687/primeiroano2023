@@ -3,11 +3,11 @@ body{
     background-image:linear-gradient(#BF9663,#8C694A);
 }
 
-header{
-    background-color:cadetblue;
-border-bottom: 5px solid burlywood;
 
-
+header{ 
+    background-color:brown;
+    border-bottom: 5px solid burlywood;
+}
 
 h1{
     color: black;
