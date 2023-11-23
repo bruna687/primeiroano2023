@@ -1,6 +1,14 @@
 body{
     font-family: sans-serif
-    background-image:linear-gradient(#BF9663,#8C694A);}
+    background-image:linear-gradient(#BF9663,#8C694A);
+}
+
+header{
+    background-color:brown;
+border-bottom: 2px solid burlywood;
+
+
+
 h1{
     color: black;
     font-size: 50px;
