@@ -49,6 +49,10 @@ text-align: justify;
     color: black;
     list-style:nome;
     }
+    .item-lista{
+        display: inline-block;
+        justify-content: space-around;
+    }
 
 
 
