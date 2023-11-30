@@ -44,3 +44,11 @@ text-align: justify;
     border:0.5rem solid#365902;
     border-radius:  24px;
     }
+.lista{
+    font-size: 20px;
+    color: black;
+    list-style:nome;
+    }
+
+
+
